@@ -1,0 +1,6 @@
+-	Hi, I’m Abdelmoumen ED-Daoudy
+-	I love JAVA & C++.
+- I'm learning 
+-	I’m currently looking for an Intership to finalize my studies in network and telecommunications.
+- Contact :
+	- Mail : abdelmoumen.eddaoudy@usmba.ac.ma
