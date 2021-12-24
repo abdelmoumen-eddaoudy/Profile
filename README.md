@@ -1,6 +1,4 @@
 -	Hi, I’m Abdelmoumen ED-Daoudy
 -	I love JAVA & C++.
 - I'm learning 
--	I’m currently looking for an Intership to finalize my studies in network and telecommunications.
-- Contact :
-	- Mail : abdelmoumen.eddaoudy@outlook.com
+-	I’m currently looking for an Intership to finalize my studies in <b>Cloud Security</b>.
